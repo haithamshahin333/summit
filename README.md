@@ -7,6 +7,7 @@ Azure Portal:  https://portal.azure.com/
 
 ## Intro to Kubernetes
 **Hack:** https://microsoft.github.io/WhatTheHack/001-IntroToKubernetes/
+**Codespace:** https://github.com/haithamshahin333/wth-IntroToKubernetes-codespace
 
 
 
